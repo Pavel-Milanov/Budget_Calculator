@@ -1,0 +1,11 @@
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\bin\Debug\MoneyDatabase.exe.config
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\bin\Debug\MoneyDatabase.exe
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\bin\Debug\MoneyDatabase.pdb
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.Form1.resources
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.Properties.Resources.resources
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.csproj.GenerateResource.cache
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.csproj.CoreCompileInputs.cache
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.exe
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.pdb
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.Primary.resources
+D:\University\Praktika c# desktop\MoneyDatabase\MoneyDatabase\MoneyDatabase\obj\Debug\MoneyDatabase.csproj.AssemblyReference.cache
